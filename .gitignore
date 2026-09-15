@@ -1,5 +1,5 @@
 __pycache__/ 
 *.pyc 
-outputs/*.npy 
+**/outputs/*.npy 
 vla_env/ 
 vla_env311/ 
