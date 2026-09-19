@@ -78,5 +78,5 @@ python3 train_cvae_bc.py
 
 - The toy version's CVAE success rate (7/20) reflects a minimal,
   untuned, from-scratch implementation -- not a fundamental limit of
-  the method. Production implementations (ACT, Diffusion Policy) use
+  the given method. Production implementations (ACT, Diffusion Policy) use
   more data, better architectures, and validation-based tuning.
